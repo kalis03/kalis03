@@ -1,1 +1,1 @@
-sdfdsfprint("hello worlds");
+print("hello worlds");
